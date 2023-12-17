@@ -1,0 +1,13 @@
+APP_KEY: "appkey"
+APP_SECRET: app_secret
+USER_ID: 12345678
+CANO: 63926992
+ACNT_PRDT_CD: 01
+URL_BASE: urlbase
+DISCORD_WEBHOOK_URL: url
+staff:
+- skills: a
+- age: b
+dic:
+  dica1: a
+  dica2: a
