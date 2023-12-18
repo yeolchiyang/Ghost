@@ -56,7 +56,6 @@ public class UserInfo : MonoBehaviour
                  * return this; 함
                  * onEnter에는 항상
                  * AbstractState를 상속받은 클래스로 만든 매개변수 넣어야하도록 제네릭 지정
-                 * 
                  * State.SetEnterAction(Action onEnter) 메서드는
                  * this.onEnter = onEnter; 
                  * (State.onEneter 메소드를, Action onEnter 역할하도록 함)
